@@ -1,1 +1,6 @@
-This is the second file created for git and github
+This is the second file created for git and github.
+/
+/
+/
+/
+This line edit by git in the browsers
